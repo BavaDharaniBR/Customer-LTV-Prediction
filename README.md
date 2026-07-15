@@ -100,7 +100,7 @@ The following preprocessing steps were performed:
 
 ---
 
-# RFM Analysis
+**RFM Analysis**
 
 Customer behaviour was summarized using:
 
@@ -193,7 +193,7 @@ Best Performing Model: Linear Regression
 - Linear Regression achieved the best performance for LTV prediction among the evaluated models.
 
 
-#Business Applications
+**Business Applications**
 
 - Customer Segmentation
 - Personalized Marketing
