@@ -174,15 +174,12 @@ Models were evaluated using:
 
 **Model Comparison**
 
-	Model            	MAE	          RMSE	         R2 Score
-0	Linear Regression	1480.510421	  8209.916171	    0.34127
-1	Decision Tree	    1985.318037	  12026.407768	 -0.41352
-2	Random Forest	    1817.141503	  10571.481667	 -0.09220
-
-
+1. Linear Regression-	MAE: 1480.510421 ;  RMSE: 8209.916171 ;	 R2 score: 0.34127
+2. Decision Tree-	    MAE: 1985.318037 ;	RMSE: 12026.407768 ; R2 score: -0.41352
+3. Random Forest	    MAE: 1817.141503 ;	RMSE: 10571.481667 ; R2 score: -0.09220
 Best Performing Model: Linear Regression
 
----
+
 
 **Key Findings**
 
@@ -210,6 +207,6 @@ Best Performing Model: Linear Regression
 - Deploy the model as a web application for real-time customer analytics.
 
 **Author**
-Project Title: Customer Segmentation and Customer Lifetime Value (LTV) Prediction using RFM Analysis and Machine Learning
+Project Title: E-Commerce and Cistomer Lifecycle and Value (LTV) Prediction using RFM Analysis and Machine Learning
 
-Developed as part of the Summer Internship Project (2026).
+Developed as part of the Summer Internship Project (2026)- IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata
